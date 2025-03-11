@@ -2,10 +2,13 @@
 
 In deze howto pagina worden de volgende onderwerpen besproken:
 
+- [R studio installeren](#r-studio-installeren)
 - [Notebooks en data importeren](#notebook-en-data-importeren)
 - [Notebooks exporteren](#notebooks-exporteren)
 
 ---
+
+## R studio installeren
 
 ## Notebook en data importeren
 
