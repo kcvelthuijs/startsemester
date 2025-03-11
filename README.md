@@ -1,9 +1,9 @@
 # Over deze website/repository
 
 Dit PDF-document bevat allerlei materialen die bedoeld zijn om wegwijs te worden
-in het startsemester van Fontys ICT en dan specifiek het profiel ICT & Business.
-De focus van deze materialen ligt op het gebied van data analyse, tranformatie en
-visualisatie met de talen R en SQL.
+in het startsemester van Fontys ICT en dan specifiek het onderwerp Data Analyse.
+De focus van deze materialen ligt op het gebied van verkrijgen van inzicht door het analyseren, tranformeren en
+visualiseren van data. Daarvoor maken we gebruik van SQL en R.
 
 **Let op:\
 Dit document is blijvend in ontwikkeling. Het is de bedoeling dat het wordt aangepast op de eisen en wensen van studenten.
