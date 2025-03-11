@@ -1,9 +1,4 @@
----
-permalink: /index.html
-title: "Fontys ICT - Startsemester data analysis"
----
-
-# Over deze website
+# Over deze website/repository
 
 Dit PDF-document bevat allerlei materialen die bedoeld zijn om wegwijs te worden
 in het startsemester van Fontys ICT en dan specifiek het profiel ICT & Business.
